@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Bima Setyo",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjo4LCJub3NlIjoxMiwibW91dGgiOjAsImV5ZXMiOjEsImV5ZWJyb3dzIjowLCJnbGFzc2VzIjo4LCJoYWlyIjozNCwiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "software engineer",
-    bio: "I wanna be a software engineer :)",
+    bio: ":)",
     email: "abimanyusrisetyo@gmail.com",
     linkedin: "abimanyusrisetyo",
     github: "bzizmza",
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `bzizmza.github.io`,
-      href: "https://github.com/bzizmza/bimasetyo-log",
+      href: "https://bzizmza.github.io",
     },
   ],
   // blog setting (required)
