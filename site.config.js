@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `bzizmza.github.io`,
-      href: "https://bzizmza.github.io",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
